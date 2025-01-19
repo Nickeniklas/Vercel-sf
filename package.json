@@ -1,0 +1,12 @@
+{
+  "name": "vercel-sf",
+  "version": "1.0.0",
+  "description": "CNA25, code challenge - Vercel serverless function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vercel": "C:\\Users\\Nikla_000\\AppData\\Roaming\\npm\\vercel.cmd"
+  },
+  "author": "",
+  "license": "ISC"
+}
